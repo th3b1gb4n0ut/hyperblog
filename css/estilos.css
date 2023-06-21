@@ -1,9 +1,11 @@
 body
 {
-    color: red;
+    background: black;
+    color: whitesmoke;
     text-aling: center;
     font-family: "Arial";
-    text-align: center;
+    text-align: middle;
+    
 }
 
 #container
@@ -23,18 +25,31 @@ body
 
 #cabecera
 {
-    background-color: #33a;
+    background: blue;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
 }
 
 #cabecera #tagline
-{
-    padding: 0 0 0 1em;
+{   padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+#cabecera #h1
+{
+    font-size: 20px;
+}
+#post
+{
+    background: gray;
+    padding: 1em;
 }
 
