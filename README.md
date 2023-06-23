@@ -9,3 +9,4 @@ un blog asi todo bueno o no sé
 * github
 * Creado por el increible platzi team 
 * incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
