@@ -8,3 +8,4 @@ un blog asi todo bueno o no sé
 * de utilizar
 * github
 * Creado por el increible platzi team 
+* incluye ejemplos en windows, linux y mac
